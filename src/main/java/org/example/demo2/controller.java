@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class controller {
     @GetMapping("/")
     public String index(){
-        return "testeeeeeeeee";
+        return "test webhook from github ";
     }
 }
