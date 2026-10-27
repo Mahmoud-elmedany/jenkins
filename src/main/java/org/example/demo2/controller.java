@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class controller {
     @GetMapping("/")
     public String index(){
-        System.out.println("Hello Worببld");
+        System.out.println("Hello Wdslfkdlfkorببld");
         return "newff ddw";
     }
 }
